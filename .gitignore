@@ -1,2 +1,6 @@
 # Qwen files
 QWEN.md
+
+# Environment 
+.env
+.env.local

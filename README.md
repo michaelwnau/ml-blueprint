@@ -1,7 +1,6 @@
 # ml-blueprint
 
-A standardized machine learning project blueprint with a consistent structure for ML experiments and production code.
-
+A standardized machine learning project blueprint with a consistent structure for ML experiments and production code. This repo is based on the Sarah Glasmacher's [ML Project Blueprint](https://www.sarahglasmacher.com/ml-repo-starter-kit-src-layout-uv/).
 ## Features
 
 - Standardized project structure for ML projects
